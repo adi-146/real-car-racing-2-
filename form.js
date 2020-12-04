@@ -7,7 +7,7 @@ class Form{
         title.html("Car Racing Game");
         title.position(130,0);
         var input=createInput("Name");
-        var button=createButtton("play");
+        var button=createButton("play");
         var greeting =createElement('h3');
         
         input.position(130,160);
